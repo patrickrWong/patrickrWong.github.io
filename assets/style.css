@@ -10,7 +10,9 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-color: rgb(65, 63, 63);
+    /* background-color: rgb(65, 63, 63); */
+    background-image: url("imgs/bedroom.jpg");
+    background-size: cover;
 }
 
 .container {
